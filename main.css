@@ -1,0 +1,81 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+  background-color: rgba(123, 224, 102, 0.8);
+  margin-left: 1%;
+  margin-right: 1%;
+  border-radius: 14px;
+}
+.Trang {
+  color: rgb(213, 52, 52);
+  text-align: center;
+  vertical-align: top;
+  width: 400px;
+  border-width: 3px; /* chiều rộng của viền */
+  border-style: solid; /* kiểu font viền */
+  border-color: rgb(128, 8, 8); /* màu viền */
+}
+.hang2 {
+  color: rgba(39, 21, 173, 0.8);
+}
+.hang3 {
+  font-size: 200%;
+  color: rgba(16, 119, 88, 0.8);
+}
+p {
+  font-size: 130%;
+}
+.box {
+  background-color: aqua;
+  padding: 8px 15px;
+}
+.box1 {
+  background-color: bisque;
+}
+.nut1:hover {
+  background-color: rgba(240, 75, 34, 0.8);
+  padding: 8px 15px;
+}
+img {
+  width: 200px; /* chiều rộng */
+  height: 200px; /* chiều cao */
+  border-radius: 8px;
+  border-width: 4px; /* chiều rộng của viền */
+  border-style: dashed; /* kiểu font viền */
+  border-color: palevioletred; /* màu viền */
+  margin-left: 20px;
+}
+video {
+  width: 200px; /* chiều rộng */
+  height: 200px; /* chiều cao */
+  border-width: 4px; /* chiều rộng của viền */
+  border-style: solid; /* kiểu font viền */
+  border-color: palevioletred; /* màu viền */
+  margin-left: 20px;
+}
+a {
+  color: rgba(55, 77, 188, 0.8);
+}
+.o {
+  box-shadow: -10px -15px 10px cyan;
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  background: #ff00ff;
+}
+.FB {
+  font-size: 170%;
+  color: white;
+  background: blue;
+}
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGSDVkK0cZ-3Pl5uC3FPoTKm8Xf5ULvnIqw&s);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.icon {
+  font-size: 50px;
+  color: blue;
+  margin: 20px;
+}
